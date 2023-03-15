@@ -1,0 +1,328 @@
+(/◕ヮ◕)/ Shameless Donation links insertion here. (/◕ヮ◕)/
+If you like my mods and probably want or don't want to see more. A Donation is welcome but never required.
+
+https://www.paypal.me/TheNeru
+https://ko-fi.com/theneru
+
+¯\_(ツ)_/¯ Shameless Donation links insertion end. ¯\_(ツ)_/¯
+||||||||||||||||||||||||||||||||||||||||
+CREDITS AND KUDOS
+||||||||||||||||||||||||||||||||||||||||
+LonelyLucifer
+ZOD C 137
+
+
+||||||||||||||||||||||||||||||||||||||||
+Improved Base Facilities Info
+||||||||||||||||||||||||||||||||||||||||
+-All Daybreak Facilities
+Daybreak Facilities no longer require DB Item Rewards to build
+Now it only requires Command Center 3
+
+-Armory
+Allows crafting of Adv Attachments
+Removed Leader Requirement
+
+-Barracks
+Removed Leader Requirements for upgrades
+Having power negates morale penalty of Spartan Barracks
+
+-Bedrolls
++1 Additional Bed
+
+-Bed Facilities
+Sleep Function [Allows skipping Night Time]
+[NOTE: Can only sleep between 7PM and 3AM]
+[NOTE: Has random effects!]
+||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||
+Random Sleep Effects
+||||||||||||||||||||||||||||||||||
+REffect 1: Trauma is not removed if the Character did not sleep well.
+Fatigue is removed, Stamina and Health is restored.
+[NOTE: Character is automatically locked into this]
+[effect when sleeping after 12AM]
+
+REffect 2: Health and Stamina is restored, Fatigue and Trauma is removed
+if the character slept well.
+
+REffect 3: Same as REffect 2 but injuries are removed.
+
+REEffect 4: Same as REffect 2 and 3. But the character regenerates Health and
+Stamina for between 5 to 10 minutes.
+||||||||||||||||||||||||||||||||||
+
+-CLEO Relay
+Modified the rewards for CLEO Drops
+
+-Drucker Knight Drive-in Theater Projector
+Increased buff durations.
+
+-Kitchen
+Hot Water Access buff no longer requires Solar Array (Req. Water&Power)
+
+-Lounge
+Increased duration of Morale Buffs
+Function to play Blackjack Minigame
+
+-Projector Lounge
+Removed Leader Requirement
+Increased Morale Duration
+Photoradiogram Functions [Craft Skill Books]
+Ability to craft Clean Paper [Used for Crafting Skill Books]
+Added "Just Neru Stuff" category.
+||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||
+Just Neru Stuff functions
+||||||||||||||||||||||||||||||||||
+* Watch Conan the Barbarian
+Active character gains the trait High Pain Threshold
+
+* Watch Dragon Ball Super: Battle of Gods
+Active character gains the trait Daredevil
+
+* Watch Epic Movie
+Active character gains the trait Laughs Easily
+
+* Watch Final Fantasy VII: Advent Children
+Active character gains the trait Incredible Immune System
+
+* Watch Jesus
+Active characters recovers HP, removes trauma, injury and Blood Plague
+
+* Watch John Wick
+Active character gains the trait Decent Shot
+
+* Watch Rocky
+Active character gains the trait Just Keeps Going
+||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||
+
+
+-Sniper Tower
+Removed Leader Requirement
+Function to Start a Siege
+[After the Siege, Community will have 0 Base Threat and +20 Morale for 2 in-game days]
+
+-Farm (Without Water|With Water)
+Increased Yields (3)(3|5)(5|8) [This does not reflect properly in the Facility Info Box. Instead confirm it at the Community Resource Panel]
+
+-Field Hospital
+Provides 3 Beds
+Removed Leader Requirement
+Can Craft Enhanced Plague Cures
+Can Craft Bottle of Stimulants
+
+-Garden (Without Water|With Water)
+Increased Yields (2)(2|3)(3|4) [This does not reflect properly in the Facility Info Box. Instead confirm it at the Community Resource Panel]
+
+-General Storage 1/2/3
+Doubled Storage Size
+Allows converting of resources into Rucksacks which will be placed inside the Supply Locker
+
+-Generator 1/2/3
+Increased Power Duration
+
+-Haven Device
+Allows the community to call CLEO Drops [Modified]
+Haven Program: Guardian CLEO - Provides Haven Protocol effect to the player controlled character.
+Zombies within 10m will be affected.
+Haven Program: Maximum Output - Once this function is active. All zombies just entering the Haven Protocol
+radius will immediately die.
+Haven Program: Haven Territory - Haven Protocol effect will affect every zombie in the territory. But
+the killing effect will sharply drop.
+[Only 1 Haven Program can be active.]
+
+-Hydroponics
+Removed Convert Option
+Yields 5 Food and Meds
+
+-Infirmary
+Provides beds proportional to their treatment beds provided
+
+-Kitchen 1/2
+Increased buff duration of Cook Feast
+
+-Parking Slots
+Allows crafting of Vehicle Upgrades without Autoshop facility
+Allows repairing parked vehicles with parts
+Allows building of Vehicles [Non-Apoc][Requires Workshop 3 or Autoshop]
+Allows scrapping of vehicles for parts, fuel and materials [Autoshop]
+Allows towing cars far from base to be transported to the bases' parking slot
+
+-Radio Room 2 and 3
+Ability to bring 2 followers with you
+Ability to move to waypoint placed on the map
+[NOTE1: Place a map marker first before activating the command]
+[NOTE2: Avoid Placing the marker on top of icons/buildings/high elevated areas/off the map]
+[NOTE3: A Random car near you will be transported to the destination as well]
+
+-Rain Collector
+Water Access is now passive
+When powered, increases Plague Resistance
+
+-Red Talon Watchtower
+No Daily Ammo Cost
+
+-Red Talon Workshop [Including the RT FOB in Trumbull(Homecoming)]
+All Ammo Calibers can now be crafted
+Pro. and Adv. attachments can now be crafted
+CLEO attachments can now be crafted
+CLEO and RTX series guns can now be crafted
+Red Talon throwables, placeables can now be crafted
+Stops Weapon Degredation [Requires Metalworking]
+
+-Watchtower 1 | 2
+Reduces Base Threat by 3 | Reduces Base Threat by 5
+Should have 3 active Armed Guards
+
+-Staging Area
+Increases Base Action Speeds depending on the number of Community Members
+[Caps out at 100%]
+
+-Shooting Range
+Sway & Recoil reduced by 12%, +25% Reload Speed to Community
+
+-Shooting Range 2
+Removed Leader Requirement
+Sway & Recoil reduced by 25%, +50% Reload Speed to Community
+
+-Training Area
+Stamina Cost when using melee is reduced by 50%
+
+-Training Area 2
+Grappling, Dodging, Melee and Finisher cost 50% less Stamina
+
+-Trade Depot
+Removed Leader Requirement
+Gain 1 Ammo, Food, Fuel, Material, Meds per day
+50 Addtional Storage for all Resources
+
+
+||||||||||||||||||||||||||||||||||||||||
+[CLEO Supply Drop modifications]
+||||||||||||||||||||||||||||||||||||||||
+Ammo Drop
+----------------------------------------
+556 Rounds
+762 Rounds
+12G Rounds
+.44 Rounds
+.45 Rounds
+.50 Cal Rounds
+CLEO Rounds
+1 Ammo Rucksack
+----------------------------------------
+----------------------------------------
+Weapon Drop
+----------------------------------------
+[Set 1]
+CLEO Guns
+CLEO Attachments
+
+[Set 2]
+Echo Guns Series
+Adv. Chokes
+Adv. Suppressors
+
+[Set 3]
+RTX Guns Series
+Adv. Brake
+
+[Set 4]
+High Caliber Guns
+----------------------------------------
+----------------------------------------
+||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||
+
+||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||
+CHANGELOGS
+||||||||||||||||||||||||||||||||||||||||
+02-10-23
+* Fixed Scrap Function
+* Fixed Salvage Gains error from salvaging certain Apocalypse Vehicles
+
+01-23-23
+* Fixed Crash when recruiting Community Members as followers
+* Improved Vehicle Crafting in Parking Lot
+* Improved Vehicle Scrapping in Parking Lot
+
+10-13-22
+* Added Blackjack Minigame to Lounge Facilities
+* Improved the Vehicle Tow Function of Parking Slots
+* Improved the Vehicle Crafting of Parking Slots
+[Vehicles should properly spawn on Parking Slots now.]
+
+09-25-22
+* Added new function to General Storage
+
+06-13-22
+* Added function to parking lot that allows transporting cars to base
+
+05-27-22
+* Added Haven Programs
+
+05-16-22
+* Added Scrap Vehicle function to parking slots
+* Added Icons to Vehicle Build actions in the parking slot
+
+05-13-22
+* Parking Spots allows building of Vehicles [Non-Apoc]
+* Added command to Radio Room 2 and 3 to have 2 followers
+
+03-09-22
+* Added Photoradiogram actions to the Projector Lounge.
+* Added Craft Clean Paper to Projector Lounge
+* Added Travel to Waypoint action to Command Center 2 and 3.
+[NOTE: Place a map marker before activating the command]
+* Improved the Sleep Function [Read Bed Facilities for Specifics]
+
+01-29-22
+* Improved Red Talon Workshop [RTWS]
+* All Ammo Calibers can now be crafted at the Red Talon Workshop
+* CLEO and RTX series guns can now be crafted at the Red Talon Workshop
+* Red Talon throwables, placeables can now be crafted at the Red Talon Workshop
+* Professional, Advance and CLEO attachments can now be crafted at the Red Talon Workshop
+* Red Talon Workshop stops weapon degradation [Requires Metalworking]
+* All Daybreak facilities now require Level 3 Command Center instead of DB Item Rewards
+
+01-26-22
+* Added Sleep function to all Bunkroom/Bunkbed Facilities
+* Added CLEO Drop functions from the CLEO Relay to the Haven Device
+* Modified the rewards for the CLEO Drops
+
+01-24-22
+* Added Sleep function to all Bed Facilities
+* All Kitchens (Built-ins included) now increase Blood Plague Resistance
+when water and power is available [Should definitely affect all now]
+* Fixed crash when building Bedrolls [Outdoor and Indoor]
+
+01-18-22
+* Added an additional Guard for the Sniper Tower
+* Hot Water Access buff no longer requires Solar Array
+* All Kitchens (Built-ins included) now increase Blood Plague Resistance
+when water and power is available
+* Watching Movies now increase Base Noise by 3
+* Stills (Built-ins included) now have the same passives as the
+Rain Collector. (Passive Water and BP Res.)
+* Removed Dummy IBF (Improved Base Facilities) items from the
+Dev Menu.
+* Fixed Kitchen Icon for Outdoor Kitchen in Farm Homebase at Trumbull Valley [Homecoming]
+
+01-16-22
+* Added additional Guard Nodes to Watch Towers 1 and 2
+
+01-15-22
+* Updated for Update 28.1 Build 450170
+* Added new functions to the Projector Lounge
+* Removed Leader Req from Projector Lounge
+
+08-22-21
+* Parking Slots allows crafting of Vehicle Upgrade Kits
+* Parking Slots allows repairing parked vehicles with Parts
+* Removed Leader Requirements to build Spartan Barracks and Dormitory Suite
+* Having Base Power negates morale penalty for Spartan Barracks
+* Rain Collector water access is now passive instead of an action
+* Powered Rain Collector increases Plague Resistance

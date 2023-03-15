@@ -1,0 +1,18 @@
+Moving Enclaves Specifics Info
+=======================
+
+MOVING
+Enclaves will attempt to move to another site between 5 ~ 6 AM and PM respectively.
+Base chance of them moving to another location is 15%. The chance will increase by 1 ~ 15% when no Enclaves will move.
+
+PLAGUE HEART LOOT AND INFESTATIONS
+They will kill the Plague Heart or remove the Infestation occupying the site they will be taking.
+Loot from the Plague Heart will be added to their Item Stash. You may purchase the items from them.
+
+
+Also ignore the fact you gain Influence from them removing an infestation. Just imagine your other community members
+helped them or something.
+
+
+TRUMBULL VALLEY
+Does not work here because of an existing Story Quest line. That and I lost my list of Sites used by Story missions.

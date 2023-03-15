@@ -1,0 +1,80 @@
+Enclave Editor and Edit My Enclave pages have page cyclers.
+Use those buttons to access other pages relating to EE and EME
+
+Changes
+03-06-23
+* Added buttons to quickly switch pages for Follower Recruitment
+* Fixed Head Accessories should no longer block vision for AI
+* Added more redundant checks for Head Accessories
+
+02-25-23
+* Fixed missing Fallout accessory category
+* Fixed variables not properly updating in Enclave Editor pages
+* Fixed Distance Check for some functions
+
+02-24-23
+* Support for Head Accessory Mod V1.0.4
+* Enclave Head Accessory no longer requires enclaves' members to be rendered or scanned to spawn the accessory
+* Added function add enclaves' members as followers. [Fun Panel] [Enclave Editor Page]
+* Added function add community members as followers. [Edit My Enclave Page]
+* Remove redundant code when filling some drop downs in Enclave Editor Page
+* Function for Swapping Enclave's Restock Schema
+* Function to view an Enclaves' Trade items in Enclave Editor Page
+* Function to view an enclaves' member's inventory [Only works if Character is rendered]
+* Replaced Enlist Members function in Enclave Editor page with Heal Enclave function
+
+01-12-23 Hotfix
+* Fixed Accessory Category Mismatch
+* Head Accessories are given proper names instead of their asset names
+* Fixed accessory toggle
+
+01-12-23
+* Added Enclave Trait Checker
+* Added Support for Head Accessory Mod V1.0.3
+* Family Relationship Editor optimization
+
+12-24-22
+* Added Family Relationship Editor. [Edit My Enclave]
+* Fixed bug not able to rename or change enclave description.
+
+12-20-22
+* Persistent Head Accessory for the game session
+* Improved Enclave selection and detection
+[Fix for Enclaves having the same name]
+
+11-30-22
+* Added Support for Zod's Head Accessory Mod
+
+11-12-22
+* Death Battle, Battle Royale buttons are now enabled
+* Some Fun Panel functions are enabled
+* Adding Enclave Benefits is enabled
+
+11-07-22
+* Bug Fixes
+Character Selector for Weapon Swapper having duplicate entries [Fixed]
+Enclave Editor removing equipment from first selected Enclave character [Fixed]
+* Added Unequip selection to Weapon Swapper
+
+11-05-22
+* Can now add the 9999 stuff to your supply locker
+* Added function in Enclave Editor page to change relationship between Enclaves
+* Added function in Enclave Editor page to change benefits given to you by Enclaves
+* Added function in Enclave Editor page to change enclave description
+
+10-26-22
+* Added option to teleport Enclave members to you
+* Redone Move to Site with Tag function
+* Reworked the Enclave Editor functions
+Rename Enclave - Renaming the enclave should not break the menu
+Textbox changes - Changes focus after pressing enter to avoid redundant function executions
+* Added Page 2 for Enclave Editor for it's other functions
+* Added function to add items to the Enclave's trade inventory.
+* Added function to swap out equipped weapons of Enclave members of the selected Enclave
+* Added Edit My Enclave functions to set name, resources and add characters to your own community
+* Added slider to change transparency for the Enclave Editor background.
+* Added Infestation Problem and Enclave Siege to the Fun Panel.
+
+10-22-22
+* Re-release. Renamed from Enclave Mover to Enclave Editor
+https://www.nexusmods.com/stateofdecay2/mods/659

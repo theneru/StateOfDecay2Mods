@@ -1,0 +1,60 @@
+Plague Heart Health Gauge [Version 2.0.0]
+If you want to set your own Plague Heart settings like Health, Damage Dealt to Plague Hearts, how close you have to be to display the Health Gauge.
+You can set all these in the `YourCustomPlagueHeartSettings.uasset`
+
+Custom settings will not take effect with the following mods:
+Darkside Redux
+Darkside of The Walking Dead Redux
+Growing Threat
+
+Use Heilos' Asset Editor to modify the mod to your liking.
+
+Variables inside the `YourCustomPlagueHeartSettings.uasset` and what they do:
+=============================================================================
+[Variable Type] - [Variable Name] | [Description]
+Boolean - bUseCustomSettings | Set 1 to use custom settings, Set 0 to use vanilla settings
+Boolean - bUseHealthGauge | Set 1 to show the Plague Heart's Health when close to it, Set 0 to not show the Health at all
+Boolean - bDoPlagueHeartPing | Set 1 to have this mod make noise for the Plague Heart at specific health thresholds, Set 0 to disable noises made by this mod
+Boolean - bRegenerateHealth | Set 1 to have Plague Hearts regenerate health, Set 0 to disable health regen
+Boolean - bUseRegenPercent | Set 1 to have Plague Hearts regenerate health based on their maximum health, Set 0 to use absolute values
+Boolean - bStopRegenWhenHostIsNear | Set 1 to have Plague Hearts stop regenerating health when Host is beside it, Set 0 to keep regenerating regardless of distance to Host
+Integer - CheckRangeInMeters | Range in meters on how close you have to be to the Plague Heart to show it's Health
+Integer - PlagueHeartHealth | Amount of Health the Plague Hearts should have upon community creation/load
+Float - BaseMeleeDMGMult | Base Multiplier for Melee Damage Dealt to Plague Hearts [e.g. 0.5 will cause you to deal half melee damage]
+Float - BaseRangedDMGMult | Base Multiplier for Gun Damage Dealt to Plague Hearts [e.g. 0.5 will cause you to deal half gun damage]
+Float - BaseExplosiveDMGMult | Base Multiplier for Concussive force explosion Damage Dealt to Plague Hearts [e.g. 0.5 will cause you to deal half concussive force explosion damage]
+Float - BaseFireDMGMult | Base Multiplier for Fire Damage Dealt to Plague Hearts [e.g. 0.5 will cause fires to deal half their original damage]
+Float - BaseHeavyMeleeDMGMult | Base Multiplier for Heavy Melee Weapon Damage Dealth to Plague Hearts [e.g. 0.5 will cause you to deal half heavy melee damage]
+Float - DiffTunMeleeDMGMult | (Difficulty) Multiplier for Melee Damage Dealt to Plague Hearts [e.g. 0.5 will cause you to deal half melee damage]
+Float - DiffTunRangeDMGMult | (Difficulty) Multiplier for Gun Damage Dealt to Plague Hearts [e.g. 0.5 will cause you to deal half gun damage]
+Float - DiffTunExplosiveDMGMult | (Difficulty) Multiplier for Concussive force explosion Damage Dealt to Plague Hearts [e.g. 0.5 will cause you to deal half concussive force explosion damage]
+Float - DiffTunFireDMGMult | (Difficulty) Multiplier for Fire Damage Dealt to Plague Hearts [e.g. 0.5 will cause fires to deal half their original damage]
+Float - DiffTunVehicleImpactDMGMult | (Difficulty) Multiplier for Vehicle Impact Damage Dealt to Plague Hearts [e.g. 0.5 will cause cars to deal half their ramming damage]
+Float - PHHealthThresholdForRegen | Health threshold for when the Plague Heart is allowed to regenerate health. [e.g. 0.5 means when PH Health is below 50% it will start to regenerate health and stops regenerating above 50%]
+Float - RegenIntervalInSeconds | Time between Plague Heart healing a portion of it's Health [e.g. 3 will make it so after every 3 seconds the Plague Heart will restore a portion of it's health]
+Float - RegenAmountPERC | Amount of Health restored to the Plague Heart [e.g. 0.5 will heal half of the Plague Heart's Health] [Used when bUseRegenPercent is set to 1]
+Float - RegenAmountABSOLUTE | Amount of Health restored to the Plague Heart [e.g. 15 will heal 15 points to the Plague Heart's Health] [Used when bUseRegenPercent is set to 0]
+
+Changelogs
+[v2.1.2 - 02-25-23]
+* Fixed several underflow and overflow values that crashes the game
+* Fixed a random underflow that causes Plague Hearts to have negative Health
+* Added more proper math for health checks
+
+[v2.1.0 - 02-20-23]
+* Added Plague Heart Regeneration
+* Added additional Damage Multipliers
+* Added Plague Heart Regen settings to `YourCustomPlagueHeartSettings.uasset`
+* Fixed Plague Heart Ping not working as intended
+* Fixed some functions and settings not taking effect
+* Code Optimization
+
+[v2.0.1 - 02-11-23]
+* Fixed missing variable `PlagueHeartHealth` in the `YourCustomPlagueHeartSettings.uasset`
+
+[v2.0.0 - 02-11-23]
+* Overhauled the code of the mod
+* Compatibility with Darkside Redux mod
+* Compatibility with Darkside of The Walking Dead Redux mod
+* Compatibility with Growing Threat mod
+* Functionality to set your own Plague Heart settings in `YourCustomPlagueHeartSettings.uasset`

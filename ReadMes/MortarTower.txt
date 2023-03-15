@@ -1,0 +1,77 @@
+Red Talon Mortar Tower Specific Info
+
+== Mortar Tower Settings ==
+Mortar Tower settings will not persist onto the next time the community is loaded.
+If there are multiple Mortar Towers. All will share the same settings. [Will be changed in the future update]
+
+== Target Acquiring & Reload Time ==
+By Default the Mortar Tower will target zombies 75 meters outside the Homebases' effective Radius.
+Reload time can be between 15 to 45 seconds. Target acquisition is also done during this time.
+	- Base Power reduces Maximum Reload and Target Acquisition time by 5 seconds [Maximum Reload&Acquisition cannot go below 30 seconds]
+	- Hacking Skill reduces Maximum Reload and Target Acquisition time by 5 seconds [Maximum Reload&Acquisition cannot go below 30 seconds]
+	- Demolitions Skill reduces Minimum Reload and Target Acquisition time by 5 seconds [Minimum Reload&Acquisition cannot go below 10 seconds]
+
+== Mortar Target Priority ==
+By Default the tower targets Common Zombies. You are able to set it to prioritized specialized zombies.
+In the absence of the prioritized zombie type or if the zombie type cannot be targeted. The Tower will instead
+seek other available zombie types as targets. [Increases Target acquisition time.]
+
+== Mortar Malfunction ==
+Firing the Mortar will have a 10% chance of malfunctioning
+	- Dud Shell [50%]
+	- Mortar Shell Explodes on the tower [25%]
+	- Shell is way off target [25%]
+	- Craftsmanship Skill reduces malfunction chance to 3%
+
+
+== Mortar Ammunition Type Change ==
+Payload Type can be changed to one of the following:
+Flashbang
+Napalm
+Plague Buster
+Fragmentation
+Smoke
+Thermite Grenade
+Willie Pete
+Fire Bomb
+Bloater Gas Grenades [Requires Chemistry to ignite after a delay]
+
+
+||| Planned Future Updates |||
+Time on Target Barrage
+Option to allow Targeting Hostile Humans
+Mortar Malfunction chance varies depending on Difficulty
+	- Green Zone Malfunction Chance 5%
+	- Standard Zone Malfunction Chance 7%
+	- Dread Zone Malfunction Chance 8%
+	- Nightmare Zone Malfunction Chance 10%
+	- Lethal Zone Malfunction Chance 10%
+
+Haven Protocol Re-Emitter Payload [Launches the Odd Little CLEO Machine to a location and emit Haven Protocol effect at the area]
+Function for Long Range Mortar Support
+
+
+||| Coding Finished but not yet Implemented |||
+Nothing yet
+
+
+\\\ Changelogs ///
+V1.0.1
+* Individual Settings for each Mortar Tower [Settings Apply to the Nearest Mortar Tower] [Only Works for the following settings]
+	- Mortar Shell Swapping
+	- Zombie Target Priority
+* Reload and Target Acquisition times can be influenced by Community Members
+* Firing the Mortar will have a % chance of malfunctioning
+* Added the following Payloads
+	- Willie Pete
+	- Fire Bomb
+	- Bloater Gas Grenades
+* A Community Member that has Chemistry Knowledge. Will ignite the Bloater Gas after a short delay.
+* Option to use Zombait to attract zombies to the targeted zombie before shelling the location
+* Ability to Manually designate an area of shelling
+* Common Plague Zombies can be set as prioritized target
+* Hordes can be set as prioritized target
+* Mortar Tower will not target zombies within 10 meters from you
+
+V1
+* Initial Release on Nexus

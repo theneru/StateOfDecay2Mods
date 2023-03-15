@@ -1,0 +1,308 @@
+  (/◕ヮ◕)/ Shameless Donation link insertion here. (/◕ヮ◕)/
+If you like my mods and probably want or don't want to see more. A Donation is welcome but never required.
+
+https://www.paypal.me/TheNeru
+https://ko-fi.com/theneru
+
+¯\_(ツ)_/¯ Shameless Donation link insertion end. ¯\_(ツ)_/¯
+
+||||||||||||||||||||||||||||||||||||||||
+CREDITS AND KUDOS
+||||||||||||||||||||||||||||||||||||||||
+ZOD C 137
+
+
+||||||||||||||||||||||||||||||||||||||||
+FAQ - Frequent Annoy~ahem~ Asked Questions
+||||||||||||||||||||||||||||||||||||||||
+Q: Where can I find the new outposts?
+A: Autoshop Outpost -> Basically an Autoshop Building [Can be found in all maps]
+Nursery Outpost -> Plant Nursery/Greenhouses [Notably Meagher Valley has these buildings]
+Post Office Outpost -> Only Providence has this building. Trumbull Valley [Homecoming] has this building.
+Library Outpost -> Drucker and Cascade has this building
+Church Outpost -> Drucker and Trumbull valley has this building.
+Police Station Outpost -> Providence Ridge, Cascade Hills, Drucker County. Does not exist in Meagher Valley
+and Trumbull Valley [Homecoming]
+Factory Outposts -> [Factory Buildings] Trumbull Valley and Meagher Valley. [Workshop Buildings] Cascade Hills, Meagher Valley and Drucker County.
+Factory Outpost is not present in Providence. [I could be wrong and scanned the map sleepily/lazily]
+
+Q: Will you ever update the No Labor version to have the latest changes in the one with Labor Cost?
+A: I will remove and no longer update the No Labor version.
+
+Q: Why can't I upgrade the Nursery and Safehouse Outposts?
+A: You need the State of Decay 2 Mod Manager by KaiHeilos to integrate those new Outposts.
+
+Q: Why does my game crash when approaching X Outpost?
+A: You need the State of Decay 2 Mod Manager by KaiHeilos to integrate those new Outposts.
+
+Q: Why can't I see Homebases and Survey Points at the start?
+A: I've hidden them as of V1.1.55.
+
+Q: Can't you just add a toggle button to enable the facility functions at the cost of Labor?
+A: I definitely can, but I am limited to 5 buttons at most. That and it doesn't sit right
+with me that the community is still gaining resources from the outpost without the cost of Labor.
+Also, also. I would need to edit a few more files to achieve that and will inevitable become
+a conflict with other mods.
+
+
+
+Outpost Overhaul Mod
+=======================================
+=======================================
+All Resource Outposts
+~ Outposts that generate resource will cost 1 Labor
+
+All Outpost [If not all then most]
+~ Removed the ability to learn or gain EXP for 5th skills.
+Instead use the Library or Post Office Outpost to learn/improve 5th skills
+
+Ammo Outpost
+~ Ammo Outpost 1 Allows crafting of Small Firearms [Revolvers]
+~ Ammo Outpost 2 and 3 Allows crafting of Small Firearms
+~ Ammo Outpost 2 and 3 allows you to craft small caliber ammo
+~ Ammo Outpost 2 will have Workshop 2 Crafting Actions
+~ Ammo Outpost 3 will have Workshop 3 Crafting Actions
+
+Autoshop Outpost
+~ Behaves just like an Auto Shop Facility
+~ Allows you to repair and refuel your vehicle for free
+~ Allows you to scrap Vehicles for Parts, Fuel and Materials
+~ Allows building of Apocalypse Vehicles of choice
+[Has 2 versions of Scrap function.]
+[1. Scrap vehicle and teleport back to home]
+[2. Scrap Vehicle without teleporting back to home]
+
+Bar Outpost
+~ Provides Knowledge of Alcohol, Cooking, Cuisine and Nutrition
+~ Tasting Room functions
+~ Function Craft Beer
+
+Church Outpost [Only in Drucker County and Trumbull Valley]
+~ Provides Morale Buffs [Morale Benefit Increases as your community increases in size]
+~ Provides +1 to all Resource types everyday [Activates when community is large enough]
+~ Provides 4 Beds
+
+Factory Outpost (v1)
+~ +3 Materials
+~ Allows crafting of 3 to 6 Random Blade type weapons
+~ Allows crafting of 3 to 6 Random Blunt type weapons
+~ Allows crafting of 2 to 4 Random Heavy type weapons
+[NOTE 1
+[Bounty and DLC locked weapons are excluded
+[NOTE 2
+[Warehouse Buildings may be subject to change for a new outpost type.
+[NOTE 3
+[FOP is still in V1. I might further work on it allowing to craft each individual
+[melee weapons. But that's alot of work to do. I may or may not go through it.
+[Incentivize me by buying me Ko-fi ~not really~. It would go well with my biscuits, or bread.
+[Bad jokes aside. Thanks for reading this nonsense and have a Goo'Day
+
+Food Outpost
+~ Food Outpost 2 will have Kitchen 1 functions
+~ Food Outpost 3 will have Kitchen 2 functions
+~ Allows you to hire 2 NPCs to accompany you inexchange for food and influence
+
+Fuel Outpost
+~ Can craft Molotovs and Fuel Bombs with Filling Machine Effect
+
+Landmark Outposts
+~ Fast Travel to Map Marker is possible
+
+Materials Outpost
+~ Materials Outpost 2 and 3 will have Sawmill Functions
+
+Medical Outpost
+~ Medicine Outpost 2 will have Infirmary 2 Crafting functions
+~ Medicine Outpost 3 will have Infirmary 3 Crafting functions
+~ Medicine Outpost 3 will allow you to craft Enhanced Plague Cures
+and Plague Busters from Heartland
+
+Artillery/Military Outpost
+~ Allows you to craft high caliber rounds
+~ Unlocks 1 Outpost Slot
+~ Allows you to call CLEO for Ammo and Weapon drops
+[Modified Siege Rewards. Based on Improved Base Facilities mod]
+
+Police Station Outpost
+~ +3 Ammo per day
+~ +25% Shooting Exp
+~ Looking for Trades function [Find a random Wandering Trader]
+~ Craft Weapons [Allows crafting of Pistols, Shotguns and Melee weapons.]
+
+Safehouse Outpost
+~ +4 Beds
+~ Added Special Functions
+~ Can deposit rucksack
+~ Safehouse can be upgraded to Front Guard, Scavenge Base, Lounge, Self Sufficient
+~ Can Sleep in Safehouse Outposts to skip the night
+===================================
+[[[[[Custom Safehouse Upgrades]]]]]
+Safehouse Front Guard
+~ +4 Beds
+~ -6 Threat
+~ -1 Ammo Per Day
+~ -1 Labor
+
+Safehouse Scavenge Base
+~ +4 Beds
+~ +2 Materials, Meds, Ammo, Fuel, Food [Food Generation in Nightmare is 1.5x and 2x for Lethal]
+~ -3 Labor
+
+Safehouse Lounge
+~ +4 Beds
+~ Lounge 2 Functions
+~ Lounge 2 Passives
+
+Self Sufficient Safehouse
+~ +4 Beds
+~ Base Wide Water and Power
+~ -1 Labor
+[[[[[Custom Safehouse Upgrades]]]]]
+===================================
+
+
+Auto Shop Outpost [Auto Shop buildings]
+~ Outpost will have the Auto Shop facility functions
+
+Radio Booster/Tower Outpost
+~ Function to call +3 or +6 Labor Buff
+~ Function to call community members to follow you
+~ Passive that provides all Quirk Skills
+
+Nursery Outposts [Greenhouse, Nursery Buildings]
+~ Can use seeds to increase yield
+~ Nursery Outpost 1 yields food, can be converted to yield meds
+~ Nursery Outpost 2 yields both food and meds at the same time
+
+Post Office/Library Outpost/Upper Office Outpost
+~ Allows crafting of Community Skill Books
+~ Allows crafting of Quirk Skill Books
+~ Allows crafting of Respec Skill Books
+
+=======================================
+=======================================
+=======================================
+=======================================
+Functions Information
+
+Safehouse Outpost
+~ Scavenge Function
++45 Parts
++250 Prestige
++400 Influence
++4 Random Rucksacks deposited into the Community Locker [Ammo Sack excluded]
+NOTE: Locker and not Storage! So check your locker after the command finishes
+
+~ Scavenge for Consumables, Misc, and Facility mods function
+Deposits random consumables, miscellaneous, and facility mods into the
+community locker
+
+~ Distract Threats
+-14 Base Threat for 1 in-game day [90mins]
+
+~ Overwork
+Doubles the labor provided by the community.
+Facility Action speeds are increased by 25% up to 100%
+Morale is reduced by 10 up to 30
+
+=======================================
+=======================================
+Future updates
+~ Nothing. For now.
+=======================================
+Changelogs
+[02-10-23]
+~ Replaced V1 outposts with V2
+~ Factory Outpost allows crafting of all melee weapons
+
+[01-23-23]
+~ Fixed Radio Booster Tower Crash
+~ Removed Fatigues Radio Unlock from Artillery OP
+~ Removed Cash call from Radio Booster Tower
+~ Improved Apocalypse Vehicle crafting in Autoshop Outpost
+~ Apocalypse Vehicle crafting can now be activated at homebase and vehicle will be delivered to a free parking slot
+~ Improved teleport function of Vehicle Scrap with teleport to home
+~ Improved Hired Arms function in Food Outpost
+~ Improved Call Backup function in Radio Booster Tower
+
+[09-11-22]
+~ Updated for U30
+
+[06-04-22]
+~ Added new passive to Radio Tower to provide all Quirk Skill buffs
+~ Added function to Radio Tower to call community members or Cash Beaumont to follow you
+~ Added function to craft beer at Bar Outpost
+
+[05-16-22]
+~ Added Build Vehicle funtions to Autoshop Outpost
+(Apoc Vehicles can now be built at this Outpost)
+~ Added Free Repair and Refuel at Autoshop Outpost
+~ Added Scrap Vehicle Function to the Autoshop Outpost
+~ Added function to the Food Outpost to hire other NPCs from other enclaves
+to accompany you in your travels
+
+[03-09-22]
+~ Added Sleep Function to Safehouse Outposts all versions
+~ Added Fast Travel to Waypoint to all Landmarks and Landmark Strategies
+
+[01-27-22]
+~ Added new Outpost, Factory Outpost
+~ Added new Outpost, Upper Office Outpost
+~ Artillery/Military Outposts allows you to call CLEO for Ammo and Weapon Drops
+~ Homebases/Survey Points are now hidden from initial arrival in the map
+
+[01-20-22]
+~ Added new Outpost, Police Station Outpost
+
+[01-13-22]
+~ Added function to craft small firearms in Ammo Outpost
+
+[12-27-21]
+~ Updated for Update 28
+
+[08-23-21]
+~ Added Bar Outpost
+~ Added Church Outpost
+~ Nursery Outposts accepts facility mods again
+
+[08-13-21]
+~ Added Post Office Outpost
+~ Added Library Outpost
+~ Removed Skill Learning from every outpost
+
+[08-04-21]
+~ Level 3 Outposts now accept Facility Mods
+~ Increased the cost of Level 3 Outposts by 250
+~ Artillery, Nursery, Auto Shop, Radio Tower Booster now accepts Facility Mods
+~ Any of the upgraded Safehouse Outposts accepts Facility Mods
+~ Safehouse new function Overwork
+~ Fixed Ammo Outpost 1 names and description
+~ Fixed Level 3 Outposts Storage Buffs Info
+~ Molotovs and Fuel Bombs are cheaper to craft at the Fuel Outpost
+
+[07-31-21]
+~ Custom Upgrades for Safehouse
+~ Upgrading/Claiming Outposts no longer cost Labor
+
+[07-21-21]
+~ Level 3 Resource Outpost grants +35 Storage to the resource they produce
+~ Radio Booster Outpost function to receive more Labor
+~ Material Outpost 3 provides daily Parts resource
+~ Material Outpost 3 allows crafting of circuitry
+~ Military Outpost now allows you to craft Advance Attachments
+~ Military Outpost provides -10 Base Threat
+~ Military Outpost now cost 1 ammo per day
+~ Can craft weapon parts in Ammo Outpost 2 and 3
+~ Fuel Outpost 3 allows crafting of Case Chemicals
+~ Lowered Labor Cost to Upgrade Nursery Outpost
+~ Nursery Outpost 1 Meds allows crafting of Jugs of Ethanol
+~ Nursery Outpost 2 allows crafting of Jugs of Ethanol
+
+[07-16-21]
+~ Added Deposit Rucksack function to Safehouse
+~ Added function Radio Tower to call additional Labor
+~ Artillery/Military Outpost now adds +1 Outpost and Unlocks Find Fatigues Radio command
+~ Molotovs and Fuel Bombs can be crafted
+
+[07-15-21]
+~ Initial Release

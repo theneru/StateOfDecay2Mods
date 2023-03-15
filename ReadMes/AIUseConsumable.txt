@@ -1,0 +1,35 @@
+﻿Conditions for the AI to consume an item.
+
+If has First Aid Kit and In Combat then
+﻿If Current Health < 30% or Injury > 70% then
+﻿﻿Use First Aid Kit
+﻿end
+end
+
+﻿If has Potent or Standard or Mild Pain Killers or Bandage and In Combat then
+﻿If Current Effective Health < 40% then
+﻿﻿Use Consumable
+﻿end
+end
+
+﻿If has First Aid Kit and Out of Combat then
+﻿If Injury > 30% then
+﻿﻿Use First Aid Kit
+﻿end
+end
+
+﻿If has Bandage or Mild or Standard or Potent Pain Killers and Out of Combat then
+﻿If Current Effective Health < 80% then
+﻿﻿Use Consumable
+﻿end
+end
+
+﻿If has First Aid Kit and Out of Combat then
+﻿If Current Effective Health < 50% then
+﻿﻿Use First Aid Kit
+﻿end
+end
+
+If has Blood Plague and has Plague Cure and Timer < 3mins then
+Use Plague Cure
+end
